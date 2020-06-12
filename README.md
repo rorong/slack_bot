@@ -9,4 +9,4 @@ Things you may want to cover:
 
 * After registering the bot on slack note the Slack API token, 
 
-* run with SLACK_API_TOKEN=... bundle exec ruby slackbot.rb. Have the bot join a channel and send it a hi.# slack_bot
+* run with SLACK_API_TOKEN=... bundle exec ruby slackbot.rb. Have the bot join a channel and send it a hi.
