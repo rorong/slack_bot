@@ -9,11 +9,6 @@ You will need the following things properly installed on your computer.
 * rails -v 6.0.3
 
 
-## Configuration
-See [config/application.example.yml](https://github.com/rorong/google_custom_search/blob/master/config/application.example.yml).
-The required settings are `google_api_key` and `google_search_cx`.
-
-
 ## Installation:
 * git clone <https://github.com/rorong/slack_bot>
 * cd <slack_bot>
