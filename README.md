@@ -11,14 +11,13 @@ You will need the following things properly installed on your computer.
 
 ## Installation:
 * git clone <https://github.com/rorong/slack_bot>
-* cd <slack_bot>
+* cd slack_bot
 * bundle install
 
 ## Create a New Bot Integration:
 * To integrate your bot with Slack, you must have a existing slack workspace or create a new one.
 * Go to "http://slack.com/services/new/bot" to create a new Bot Integration.
 * On the next screen note the Slack API token.
-* bundle install
 
 Running / Development:
 * rails s
